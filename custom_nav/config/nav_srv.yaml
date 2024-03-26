@@ -1,0 +1,15 @@
+custom_nav:
+  ros__parameters:
+    map_numbers: 3
+    map_0:
+      map_url_param: '/home/csl/Desktop/test_load_map_ws/src/load_map/maps/tsmc_b1_map.yaml'
+      initial_pose: {x: 154.115, y: 80.52, z: 0.0, yaw: 0.036}
+      nav_pose : {x: 155.94, y: 78.79, z: 0.0, yaw: 0.036}
+    map_1:
+      map_url_param: '/home/csl/Desktop/test_load_map_ws/src/load_map/maps/map.yaml'
+      initial_pose: {x: 0.0, y: 0.0, z: 0.0, yaw: 1.0}
+      nav_pose : {x: 0.0, y: 0.0, z: 0.0, yaw: 1.0}
+    map_2:
+      map_url_param: '/home/csl/Desktop/test_load_map_ws/src/load_map/maps/tsmc_b1_map.yaml'
+      initial_pose: {x: 155.94, y: 78.79, z: 0.0, yaw: 0.036}
+      nav_pose : {x: 154.115, y: 80.52, z: 0.0, yaw: 0.036}
