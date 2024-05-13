@@ -1,5 +1,7 @@
 # Usage
 
+demo video: https://drive.google.com/file/d/1Tt2c6cHXqR5_8o-zYrpyNigNpXnME4Ah/view?usp=sharing
+
 1. build and source 
 2. edit config/nav_srv.yaml
 3. launch navigation
