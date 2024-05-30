@@ -13,7 +13,7 @@ demo video (real): https://drive.google.com/file/d/1j-n2xtFEd0NqzKw6yC7QEz7C2n8U
 ros2 launch custom_nav custom_nav.launch.py 
 ```
 
-1. call service client
+5. call service client
 
 ```bash
 ros2 run custom_nav client {first_param} {second_param}
