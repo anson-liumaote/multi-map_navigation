@@ -1,6 +1,7 @@
 # Usage
 
-demo video: https://drive.google.com/file/d/1Tt2c6cHXqR5_8o-zYrpyNigNpXnME4Ah/view?usp=sharing
+demo video (sim) : https://drive.google.com/file/d/1Tt2c6cHXqR5_8o-zYrpyNigNpXnME4Ah/view?usp=sharing
+demo video (real): https://drive.google.com/file/d/1j-n2xtFEd0NqzKw6yC7QEz7C2n8Ubgek/view?usp=sharing
 
 1. build and source 
 2. edit config/nav_srv.yaml
